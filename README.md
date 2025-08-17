@@ -1,26 +1,9 @@
-# Raylib C++ Starter Template
+This Breakout game is created using C++ and Raylib.
 
-Raylib C++ Starter Template for Visual Studio Code on Windows.
+The template that I've used is: https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE
 
-This demo project contains a bouncing ball raylib example program.
+After working on Java Breakout using Java Swing, I decided to make a new version of Breakout using C++ and Raylib. Along the way, I decided to make optimizations and improvements on the graphics, gameplay, & collision detection and handling.
 
-It works with raylib version 4.5.
-Tested on both Windows 10 and Windows 11.
+While working on this project, I understood more about how C++ was used to create applications, especially graphical applications.
 
-# Video Tutorial
-
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
-
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
-
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="https://www.programmingwithnick.com">My Website</a> | <br>
-</p>
-
+Instructions: Use the arrow keys to move the paddle. You must clear all bricks in the current round to move on to the next round. The game is over if you clear all 6 rounds or you lose all of your lives.
